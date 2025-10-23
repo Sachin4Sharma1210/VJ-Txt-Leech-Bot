@@ -1,6 +1,6 @@
-# Don't Remove Credit Tg - @VJ_Botz
-# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
-# Ask Doubt on telegram @KingVJ01
+# Don't Remove Credit Tg - @Sachin4sharma1210
+# Subscribe YouTube Channel For Amazing Bot https://youtube.com/@agnivesh10m?si=Nm-kFcpHmHjOHUfD
+# Ask Doubt on telegram @Sachin4sharma1210
 
 import logging
 from logging.handlers import RotatingFileHandler
@@ -19,3 +19,4 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 
 logging = logging.getLogger()
+
