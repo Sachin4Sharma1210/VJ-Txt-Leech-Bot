@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-TXT-LEECH-BOT Logo">
+  <img src="https://i.postimg.cc/bvWBhHbX/IMG-20250731-120732-857.jpgT" alt="SACHIN-TXT-LEECH-BOT Logo">
 </p>
 <h1 align="center">
-  VJ TXT LEECH BOT
+  SACHIN TXT LEECH BOT
 </h1>
 
 ## Deploy Tutorial - [Video Link](https://youtu.be/l1u3C_F79QE)
@@ -11,11 +11,11 @@
 
 <b><details><summary>Tap On Me For See Credit</summary>
 
-💝 Credit Goes To [Tech VJ](https://telegram.me/Kingvj01) So Don't Forgot To Give Credit
+💝 Credit Goes To [Tech VJ](https://t.me/upscwithsachinRJ) So Don't Forgot To Give Credit
 
 💖 And Thank You So Much To All Who Help In This Journey 💕
 
-Copyright ©️ [Tech VJ](https://telegram.me/Kingvj01)
+Copyright ©️ [SACHIN](https://t.me/upscwithsachinRJ)
 
 </b>
 </details>
